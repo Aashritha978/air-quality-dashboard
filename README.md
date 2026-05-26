@@ -6,9 +6,8 @@
 
 ## 📊 Live Demo
 
-🔗 **View the live dashboard:** [https://air-quality-of-indian-cities.streamlit.app](https://air-quality-of-indian-cities.streamlit.app)
+🔗 **View the live dashboard**:(https://air-quality-dashboard-uvykh25uf8b4rvwlaqgwmc.streamlit.app/)
 
-*(Update this link after deploying to Streamlit Cloud)*
 
 ---
 
