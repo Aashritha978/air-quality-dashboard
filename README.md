@@ -120,9 +120,6 @@ Mobile-responsive Design – Optimize for smartphone viewing
 👩‍💻 Author
 Battaji Aashritha
 
-🔗 GitHub
-
-🔗 LinkedIn (Add your LinkedIn profile link)
 
 🙏 Acknowledgments
 Central Pollution Control Board (CPCB) – For making air quality data publicly available
