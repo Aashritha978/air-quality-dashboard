@@ -66,13 +66,11 @@ An **interactive data dashboard** that analyzes air quality trends across major 
 ### Prerequisites
 - Python 3.8 or higher
 - Git (optional)
-
-### Step 1: Clone the repository
 ```bash
+Step 1: Clone the repository
 git clone https://github.com/Aashritha978/Air-quality-of-indian-cities.git
 cd Air-quality-of-indian-cities
 Step 2: Install dependencies
-bash
 pip install -r requirements.txt
 Step 3: Run the dashboard
 bash
@@ -143,4 +141,5 @@ If you found this project helpful, please give it a ⭐ on GitHub!
 For questions or feedback, feel free to reach out via GitHub Issues or connect on LinkedIn.
 
 Built with ❤️ using Python and Streamlit
+
 
